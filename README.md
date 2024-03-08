@@ -1,7 +1,17 @@
-### Hi, there! My name is Prince 👋
+# Hi, there! My name is Prince 👋
 
-I'm a Full-Stack Developer and static types junkie. I use static types across all facets of web applications and love exploring zero-knowledge blockchain technology
+Design and full-stack engineer advocating for type safety throughout the development process. Using static types on both the frontend (FE) and backend (BE) necessitates type enforcement on the API layer, making GraphQL a natural choice for its strong typing capabilities.
 
-- 🏗️ Technologies I breathe: Go, Entgo, PostgreSQL, GraphQL, Remix & TailwindCSS (used to be a die-hard CSS-in-*s/PandaCSS fan)
+## My Tech Stack
 
-- ⚡ Fun fact: I believe if types are used on the frontend and backend, types NEED to be used on the API layer i.e Graphql
+Here are the tools I reach for to bring ideas to life:
+
+* **Backend:**
+  * [Go](https://go.dev/) - The powerhouse behind the scenes <img width="25px" alt="gopher" src="https://go.dev/images/gophers/pilot-bust.svg"/>
+  * [Entgo](https://entgo.io/) - For elegant data modeling <img width="25px" alt="entgopher" src="https://go.dev/images/gophers/newscaster.svg"/>
+  * [Graphql](https://entgo.io/) <img width="25px" style="margin-botton:-100px" alt="gql" src="https://graphql.org/img/logo.svg"/>
+* **Frontend:**
+  * [React](https://react.dev/) <img width="45px" alt="react" src="./public/assets/react.png"/>
+  * [Remix](https://remix.run/) <img width="25px" alt="remix" src="./public/assets/remix-glowing.svg"/>
+  * [Tailwind CSS](https://tailwindcss.com/) <img width="25px" alt="tailwindcss" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg"/>
+* **Bonus:** Used to be a die-hard fan of CSS-in-JS (PandaCSS is doing some cool stuff)
