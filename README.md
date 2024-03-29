@@ -26,5 +26,5 @@ Design and full-stack engineer who argues that using static types on both the fr
 
 - 👨🏾‍🎨 I design with: <img align="center" width="15px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/> `figma`
 
-### <a href="ofori.kwadwop@gmail.com" align="center"><img align="center" width="20px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"/> `email`</a> / <a href="linkedin.com/in/prince-ofori" align="center"><img align="center" width="20px" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> `linkedin`</a> me and let's cook 🍲
+### <a href="mailto:ofori.kwadwop@gmail.com" align="center"><img align="center" width="20px" alt="linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png"/> `email`</a> / <a href="https://linkedin.com/in/prince-ofori" align="center"><img align="center" width="20px" alt="linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> `linkedin`</a> me and let's cook 🍲
 
