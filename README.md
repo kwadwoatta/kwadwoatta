@@ -1,6 +1,6 @@
 ### Hello, I'm Prince and I create 🪄✨
 
-Design and full-stack engineer who argues that using static types on both the frontend and backend necessitates type enforcement on the API layer, making GraphQL a natural choice for its strong typing capabilities.
+Design and full-stack engineer with a deep commitment to using static types. I consistently advocate for type enforcement across all API layers, particularly with GraphQL.
 
 - 👨🏾‍💻 I frontend with: 
   <img align="center" width="15px" alt="react" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> `typescript` 
