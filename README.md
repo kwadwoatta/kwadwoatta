@@ -1,6 +1,6 @@
 ### Hello, I'm Prince and I create 🪄✨
 
-Full-stack Engineer with a deep commitment to using static types. ❤️ GraphQL
+Full-stack Engineer with a static-type fetish. ❤️ GraphQL
 
 - 👨🏾‍💻 I backend with: 
   <img align="center" width="15px" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/> `node.ts`
